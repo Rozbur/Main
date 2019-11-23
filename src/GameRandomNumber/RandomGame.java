@@ -1,7 +1,7 @@
 package GameRandomNumber;
 
 public class RandomGame {
-    Player p1; //Тут описаны три переменных которые содержит наш оъект RandomGame
+    Player p1;                  //Тут описаны три переменных которые содержит наш оъект RandomGame
     Player p2;
     Player p3;
 
