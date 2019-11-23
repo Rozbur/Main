@@ -8,7 +8,6 @@ public class Print {
         System.out.print("Или сюда 2");
         System.out.println("Выводится сюда 2");
         System.out.println("Выводится сюда 33");
-
     }
 
 }
