@@ -5,6 +5,8 @@ public class Print {
 
         System.out.println("Выводится сюда");
         System.out.print("Или сюда");
+        System.out.print("Или сюда 2");
+
     }
 
 }
